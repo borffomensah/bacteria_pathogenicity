@@ -1,7 +1,7 @@
 # Predicting Bacterial Pathogenicity Using Machine Learning on Genomic Features
 📊 Project Overview
 This project presents an interpretable machine learning framework designed to distinguish between pathogenic and non-pathogenic strains of Escherichia coli. 
-By analyzing specific genomic signatures—such as genome size, GC content, and gene counts—this model provides a scalable strategy for early risk assessment and genomic surveillance.
+By analyzing specific genomic signatures such as genome size, GC content, and gene counts—this model provides a scalable strategy for early risk assessment and genomic surveillance.
 
 🔗 Live Demo: https://bacteriapathogenicity.streamlit.app
 
